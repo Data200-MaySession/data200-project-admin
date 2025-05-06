@@ -1,4 +1,4 @@
-# Project Title
+# Data 200 Project
 
 ## Team Information
 
